@@ -12,7 +12,7 @@ This project demonstrates real-time object tracking using Python (OpenCV) and Ar
 
 ---
 
-## 🎥 Demo
+## 🎥 Demo and Explaination
 
 https://drive.google.com/file/d/1lNNuFg4Yxq6XTy5rsHVom9hgyrTNHtH0/view?usp=drive_link
 
